@@ -1,2 +1,2 @@
 # AUTHOR - ROHIT SAHU
-basic programming
+basic C++ programming
